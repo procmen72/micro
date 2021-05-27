@@ -12,4 +12,8 @@ Para la ejecución de esta practica es necesario contar con el siguiente softwar
 ## Postman
 - [Descargar el instalable para windows](https://dl.pstmn.io/download/latest/win64)
 - [Descargar el instalable para Linux](https://dl.pstmn.io/download/latest/linux64)
+## MySQL
+- [Cómo instalar MySQL en Windows 10 paso a paso](https://www.profesionalreview.com/2018/12/13/mysql-windows-10/)
+- [Cómo instalar MySQL en Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/como-instalar-mysql-en-ubuntu-18-04-es)
+- [Cómo instalar MySQL en Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04-es)
 
