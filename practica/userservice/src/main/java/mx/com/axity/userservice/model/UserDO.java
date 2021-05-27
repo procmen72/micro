@@ -24,7 +24,7 @@ public class UserDO implements Comparable<UserDO> {
 	@Column(name = "email")
 	private String dsEmail;
 	
-	@Column(name = "passwod")
+	@Column(name = "password")
 	private String dsPassword;
 	
 	@Column(name = "user_information_id")
